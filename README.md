@@ -6,7 +6,7 @@
 - My hobbies include🕹️ gaming, 🏐 volleyball, 🏸 badminton, ♟️ chess, and sketching ✏️
 
 📬 How to reach me: faryal29.fm@gmail.com  
-<p align="center" style="text-align: right; margin-right: 80px;">
+<p align="center" style="text-align: right; margin-right: 125px;">
   <img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="400" height="200" alt="GIF" />
 </p>
 
