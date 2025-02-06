@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="![WhatsApp Video 2025-02-06 at 14 32 21_a3584f96](https://github.com/user-attachments/assets/c46c54b8-f698-4359-a45c-438f98e133a5)
-" width="400" height="200" alt="GIF" />
+  <img src="https://github.com/user-attachments/assets/afac61be-6962-4e68-8be4-102356d59ae9" width="400" height="200" alt="GIF" />
 </p>
+
 
 
  
