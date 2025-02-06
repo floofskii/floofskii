@@ -1,7 +1,6 @@
 ## 🎨 Hi, I’m Faryal..
 
-![WhatsAppVideo2025-02-06at14 32 21_af9c17ba-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/613d5445-abf0-41d0-8782-1cc8906a1df8)
-
+<img src="C:\Users\farya\Downloads\WhatsAppVideo2025-02-06at14.32.21_af9c17ba-ezgif.com-video-to-gif-converter.gif" width="300" height="150" style="display: block; margin: auto;" />
  
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
 - I’m a Computer Science graduate from Aston University with research experience at Cambridge, sponsored by Google DeepMind.  
