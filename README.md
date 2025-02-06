@@ -1,17 +1,14 @@
 ## 🎨 Hi, I’m Faryal..
 
+![WhatsAppVideo2025-02-06at14 32 21_af9c17ba-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c62cdee0-51c0-431d-83d4-319eadc2466c)
+
+
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
 - I’m a Computer Science graduate from Aston University with research experience at Cambridge, sponsored by Google DeepMind.  
 - I love late-night coding sessions where creativity flows the best.  
 - My hobbies include🕹️ gaming, 🏐 volleyball, 🏸 badminton, ♟️ chess, and sketching ✏️
 
 📬 How to reach me: faryal29.fm@gmail.com  
-<p align="center" style="text-align: right; margin-right: 400px;">
-  <img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="400" height="200" alt="GIF" />
-</p>
-
-
-
 
 ## Connect with me:
 <p align="left">
