@@ -1,6 +1,7 @@
 ## 🎨 Hi, I’m Faryal..
 
-![WhatsAppVideo2025-02-06at14 32 21_af9c17ba-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c62cdee0-51c0-431d-83d4-319eadc2466c)
+<img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="200" height="100" alt="GIF" />
+
 
 
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
