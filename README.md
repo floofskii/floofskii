@@ -1,8 +1,6 @@
-## 🎨 Hi, I’m Faryal..
-
 <img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="200" height="100" alt="GIF" />
 
-
+## 🎨 Hi, I’m Faryal..
 
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
 - I’m a Computer Science graduate from Aston University with research experience at Cambridge, sponsored by Google DeepMind.  
