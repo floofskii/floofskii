@@ -1,6 +1,5 @@
 ## 🎨 Hi, I’m Faryal..
 
-![wider_resized_gif (1)](https://github.com/user-attachments/assets/626fa6f8-d2fc-406b-9908-535d701fb88d)
 
 
  
