@@ -1,5 +1,6 @@
 ## 🎨 Hi, I’m Faryal..
 
+![image](https://github.com/user-attachments/assets/2c713fbf-a4a1-4f8a-a93f-edc582e53ac6)
 
  
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
