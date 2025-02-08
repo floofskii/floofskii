@@ -1,6 +1,7 @@
 
 
-![cato](https://github.com/user-attachments/assets/60170b0f-5971-4691-a34d-b41cc4be91c5)
+<img src="https://github.com/user-attachments/assets/60170b0f-5971-4691-a34d-b41cc4be91c5" alt="cato" style="width: 150px; height: auto;">
+
 
 ## 🎨 Hi, I’m Faryal..
 
