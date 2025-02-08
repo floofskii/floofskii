@@ -1,5 +1,7 @@
 <img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="200" height="100" alt="GIF" />
 
+![image](https://github.com/user-attachments/assets/a0c51fbf-c6dd-4e3a-823b-ac602063765e)
+
 ## 🎨 Hi, I’m Faryal..
 
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
