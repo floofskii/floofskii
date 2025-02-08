@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e675aaf6-4e2e-42a6-a532-b202452fb9df" width="200" height="100" alt="GIF" />
+
 
 ![cato](https://github.com/user-attachments/assets/60170b0f-5971-4691-a34d-b41cc4be91c5)
 
