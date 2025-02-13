@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/60170b0f-5971-4691-a34d-b41cc4be91c5" alt="cato" style="width: 150px; height: auto;">
 
- <a href="https://floofskii.github.io/" target="_blank">Check out my Portfolio</a>
+ <a href="https://floofskii.github.io/" target="_blank">Check out Faryal's Portfolio Website</a>
 
 - I’m passionate about AI, Machine Learning, Computer Vision, and Human-Computer Interaction.  
 - I’m a Computer Science graduate from Aston University with research experience at Cambridge, sponsored by Google DeepMind.  
